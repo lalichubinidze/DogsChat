@@ -1,1 +1,9 @@
-# DogsChat
+# DogsChat![Simulator Screen Shot - iPhone 13 Pro Max - 2022-11-16 at 03 57 26](https://user-images.githubusercontent.com/92275173/202122136-0470555e-ff3f-4170-a64d-1aa183d5c381.png)
+![Simulator Screen Shot - iPhone 12 - 2022-11-16 at 11 57 20](https://user-images.githubusercontent.com/92275173/202122151-3b5397ec-01bf-4139-8708-2171f022533a.png)
+![Simulator Screen Shot - iPhone 12 - 2022-11-16 at 12 02 00](https://user-images.githubusercontent.com/92275173/202122199-f925c67d-8e5b-46a7-859b-41f84a2859ec.png)
+![Simulator Screen Shot - iPhone 12 - 2022-11-16 at 11 57 29](https://user-images.githubusercontent.com/92275173/202122213-a3755678-ee49-4243-b145-bb2a4ec81365.png)
+![Simulator Screen Shot - iPhone 12 - 2022-11-16 at 12 03 03](https://user-images.githubusercontent.com/92275173/202122247-5b40f073-b349-4c83-b365-f65c5d59d4a3.png)
+![Simulator Screen Shot - iPhone 12 - 2022-11-16 at 11 58 02](https://user-images.githubusercontent.com/92275173/202122274-4c7fd5d5-b45b-464b-9008-05a0d07627db.png)
+![Simulator Screen Shot - iPhone 12 - 2022-11-16 at 11 59 53](https://user-images.githubusercontent.com/92275173/202122282-d8f61c73-a901-4378-aac7-117bbc05a51a.png)
+![Simulator Screen Shot - iPhone 12 - 2022-11-16 at 11 59 41](https://user-images.githubusercontent.com/92275173/202122290-4d1eacda-271f-4603-8beb-f72249ac1b5d.png)
+![Simulator Screen Shot - iPhone 12 - 2022-11-16 at 12 02 17](https://user-images.githubusercontent.com/92275173/202122301-e3aabcc0-a82d-4810-b722-36cf1b63899c.png)
